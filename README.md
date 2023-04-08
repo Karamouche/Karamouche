@@ -1,4 +1,5 @@
-[![MasterHead](header.png)](https://github.com/Karamouche)
+[![MasterHeadLight](header-w.png)](https://github.com/Karamouche#gh-light-mode-only)
+[![MasterHeadDark](header-d.png)](https://github.com/Karamouche#gh-dark-mode-only)
 # About Me 🚀:
 Hello there 😁
 I am currently an Engineer Student in Paris!
