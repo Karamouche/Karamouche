@@ -1,10 +1,11 @@
 [![MasterHeadLight](header-w.png)](https://github.com/Karamouche#gh-light-mode-only)
 [![MasterHeadDark](header-d.png)](https://github.com/Karamouche#gh-dark-mode-only)
 ## About Me 🚀
+<p align='center'>
 Hello there 😁
-I am currently an Engineer Student in Paris!
-
+I am currently an Engineer Student in Paris!<br />
 Look my profile to discover more about my projects 💻
+</p>
  
 ## Technology Stack 🧳
 <p align=center>
