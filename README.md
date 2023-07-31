@@ -31,7 +31,7 @@ Look my profile to discover more about my projects 💻
  
  ## My Github Stats 📈
 <p align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=Karamouche&hide=prs,contribs,issues&show_icons=true&theme=cobalt">
+ <img src="https://github-readme-stats.vercel.app/api?username=Karamouche&hide=prs,contribs,issues&show_icons=true&theme=cobalt&custom_title=Karamouche's%20Github%20Stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karamouche&show_icons=true&theme=cobalt&langs_count=4&layout=compact&hide=jupyter%20notebook">
 </p>
  
