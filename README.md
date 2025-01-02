@@ -5,8 +5,8 @@
 
 <p align='center'>
 Hello there 😁
-I am currently an ML Engineer Student in Paris!<br />
-Look at my profile to discover more about my projects 💻
+I am currently an ML Engineer in France!<br />
+Look at my profile to discover more about my projects and hobbies💻
 </p>
  
 ## Technology Stack 🧳
